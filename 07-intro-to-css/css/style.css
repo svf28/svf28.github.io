@@ -1,0 +1,28 @@
+#p1 {
+    color: #ffff;
+}
+
+p {
+    background-color: black;
+    color:pink;
+}
+
+span#s1 {
+    font-weight: bold;
+}
+
+#s1 {
+    color:aqua;
+}
+
+#s2{
+    color:palevioletred;
+}
+
+#s3{
+    font-size: xx-large;
+}
+
+#s3{
+    color:brown;
+}
