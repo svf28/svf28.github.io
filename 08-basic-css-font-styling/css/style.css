@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    font-family: cursive;
+    font-style: italic;
+    font-size: 50px;
+    text-align: center;
+}
+
+#s1 {
+    color: orangered;
+}
