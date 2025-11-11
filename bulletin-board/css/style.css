@@ -1,8 +1,32 @@
-/*
-    NOTE TO STUDENTS: 
+.post-it {
+    background-color: #f699cd;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 24px;
+    padding: 24px;
+    vertical-align: top;
 
-    This is the file you should be writing your CSS in 
-    for the Bulletin Board assignment.
+}
 
-    Good luck, and have fun!
-*/
+.picture {
+    background-color: bisque;
+    width: 150px;
+    height: auto;
+    margin-top: 25px;
+    padding: 10px;
+}
+
+.picture img {
+    width: 100%;
+}
+
+.quote {
+    background-color: bisque;
+    
+}
+
+.q2 {
+    background-color: bisque;
+}
