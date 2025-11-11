@@ -1,0 +1,11 @@
+.shadowed {
+    background-color: lightgray;
+    margin: 24px;
+    padding: 24px;
+    box-shadow: 5px 5px 15px green;
+}
+
+.shadowed p {
+    width: 40%;
+    display: inline-block;
+}
