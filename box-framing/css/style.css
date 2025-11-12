@@ -1,0 +1,29 @@
+#j1 {
+    border: 2px solid rgb(57, 198, 206);
+    margin: 25px 0px;
+    padding: 24px;
+    background-color: rgb(236, 211, 86);
+}
+
+#n1 {
+    border: 2px solid firebrick;
+    margin: 25px 0px;
+    padding: 24px;
+    background-color: palevioletred;
+    border-radius: 50%;
+}
+
+#n2 {
+    border: 2px solid rgb(231, 31, 91);
+    margin: 25px 0px;
+    padding: 24px;
+    background-color: rgba(218, 19, 19, 0.8);
+}
+
+#meme {
+    border: 2px solid hotpink;
+    margin: 20px;
+    width: 150px;
+    padding: 25px;
+    background-color: aquamarine;
+}
