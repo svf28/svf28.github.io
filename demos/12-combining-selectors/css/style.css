@@ -1,0 +1,23 @@
+#navbar {
+    text-align: center;
+    padding: 24px;
+    background-color: yellowgreen;
+}
+#navbar a {
+    color: white;
+}
+
+#navbar .warning,.warning  {
+    color: fuchsia;
+}
+
+p a {
+    color:plum;
+}
+
+ul {
+    color: blueviolet;
+}
+ul p a {
+    color: aqua;
+}
