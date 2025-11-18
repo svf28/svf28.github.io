@@ -1,0 +1,20 @@
+#morning {
+    border: 3px solid #ff0000;
+    background-color: bisque;
+    margin: 24px;
+    padding: 24px;
+}
+
+#morning .completed {
+    background-color: yellow;
+}
+
+
+
+#morning .button {
+    display: inline-block;
+    background-color: red;
+    padding: 6px 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+}

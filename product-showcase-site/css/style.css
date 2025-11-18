@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=UnifrakturCook:wght@700&display=swap');
+h1 {
+    font-family: "UnifrakturCook", cursive;
+    color: rgb(252, 42, 140);
+}
+* {
+    box-sizing: border-box;
+}
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=UnifrakturCook:wght@700&display=swap');
+body {
+    margin: 0px;
+    font-family: "Instrument Serif", serif;
+}
+body {
+    background-color: black;
+}
+.section {
+    background-color: black;
+}
+.section {
+    background-color: rgb(7, 0, 5);
+    max-width: 900px;
+    min-width: 500px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 12px 12px 12px 0px;
+}
+.section img {
+    width: 500px;
+    box-shadow: 10px 10px 25px yellow;
+    margin: 0px auto;
+
+}
+span {
+    color: rgb(246, 70, 164);
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.p1 {
+    color: pink;
+    font-size: large;
+}
+
+a {
+    color: rgb(218, 117, 244);
+    border: 2px solid rgb(205, 217, 255);
+    padding: 5px 10px;
+}
+
+.p2 {
+    color: aliceblue;
+}
+
+.p3 {
+    color: aliceblue;
+}
+
+a {
+    color: rgb(218, 117, 244);
+    border: 2px solid rgb(205, 217, 255);
+    padding: 5px 10px;
+}
+
+span {
+    color: rgb(246, 70, 164);
+    font-size: x-large;
+    font-weight: bold;
+}
