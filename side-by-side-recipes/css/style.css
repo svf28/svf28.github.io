@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+.single-column {
+    width: 90vw;
+    max-width: 1200px;
+    margin: 0px auto;
+}
+.recipe-intro {
+    display: flex;
+    gap: 36px;
+    flex-wrap: wrap;
+}
+.single-column .image-container {
+    flex: 1;
+    padding: 36px;
+    width: 60px;
+}
+.img {
+    width: 100px;
+}
+

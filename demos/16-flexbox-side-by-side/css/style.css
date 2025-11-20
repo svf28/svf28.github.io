@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+.single-column {
+    width: 90vw;
+    max-width: 1200px;
+    margin: 0px auto;
+}
+.card-container {
+    display: flex;
+    gap: 36px;
+    flex-wrap: wrap;
+}
+.card {
+    color: rgb(110, 13, 65);
+    border: 5px solid burlywood;
+    padding: 30px;
+    text-align: center;
+    margin: 36px 0px;
+}
+.card h3 {
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.card p {
+    font-size: 25px;
+    margin: 0px;
+}
+.sbs {
+    margin-bottom: 50px;
+    display: flex;
+    align-items: center;
+    gap: 36px;
+}
+
+.sbs .imgc,
+.sbs .content {
+    flex: 1;
+}
+
+.sbs img {
+    width: 100%;
+}
+
+.sbs h2 {
+    font-size: 60px;
+    margin: 0px;
+}
+
+.sbs p {
+    margin-top: 16px;
+    font-size: 20px;
+}
