@@ -11,17 +11,34 @@ body {
     max-width: 1200px;
     margin: 0px auto;
 }
+img {
+    width: 100%;
+    object-fit: cover;
+}
 .recipe-intro {
     display: flex;
-    gap: 36px;
-    flex-wrap: wrap;
+    gap: 25px;
 }
-.single-column .image-container {
+.recipe-intro .image-container,
+.recipe-intro .content {
     flex: 1;
-    padding: 36px;
-    width: 60px;
-}
-.img {
-    width: 100px;
 }
 
+.time {
+    display: flex;
+    gap: 25px;
+}
+
+.three-cards {
+    display: flex;
+    gap: 25px;
+}
+h2 {
+    text-align: center;
+}
+.recipe {
+    border: 5px solid black;
+    margin: 5pxpx 0px;
+    padding: 5px;
+    border-radius: 10;
+}
