@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+img {
+    width: 100%;
+    object-fit: cover;
+}
+
+header #top-lvl {
+    background: linear-gradient(to bottom, green, #3e6d3e);
+    display: flex;
+    justify-content: space-between;
+}
+#top-lvl a {
+    text-decoration: none;
+    color: white;
+    padding: 24px;
+}
+nav #logo img {
+    width: 200px;
+}
+nav #logo {
+    margin-right: auto;
+}
