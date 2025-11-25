@@ -5,24 +5,22 @@ body {
     margin: 0px;
     font-family: sans-serif;
 }
-img {
-    width: 100%;
-    object-fit: cover;
-}
 
 header #top-lvl {
     background: linear-gradient(to bottom, #f62e33, #fb761f, #ffc71c);
     display: flex;
     justify-content: space-between;
+    border: brown solid 3px;
 }
 #top-lvl a {
     text-decoration: none;
     color: white;
     padding: 24px;
 }
-nav #logo img {
-    width: 200px;
-}
 nav #logo {
     margin-right: auto;
+}
+
+#home-page {
+    text-align: center;
 }
