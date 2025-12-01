@@ -30,16 +30,16 @@ body {
     width: 100%;
     border-radius: 8px;
 }
-.button {
+.button-buy {
     display: inline-block; 
     padding: 10px 15px;
     margin: 10px 0;
     text-decoration: none;
-    color: white;
+    background-color: #0070dd;
     border-radius: 6px;
 }
 
-.buy {
+.bu {
     background-color: #0070dd;
     padding: 15px 32px;
     border: none;

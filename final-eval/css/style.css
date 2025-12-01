@@ -1,0 +1,81 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+.center {
+    background: linear-gradient(#00ba2d, #003193, red) 
+}
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+.medium {
+    font-size: 36px;
+    max-width: 900px;
+    min-width: 500px;
+    text-align: center;
+    font-family: "Oswald", sans-serif;
+}
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Instrument+Serif&family=UnifrakturCook:wght@700&display=swap" rel="stylesheet');
+.large {
+    font-size: 100px;
+    max-width: 900px;
+    min-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "Alfa Slab One", serif;
+    text-align: center;
+}
+.small {
+    font-size: 36px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.teams {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    margin: 28px 0;
+}
+.eagles img {
+    width: 500px;
+    display: block;
+    margin-bottom: 10px;
+    box-shadow: 16px 10px 10px;
+}
+.teams .eagles h3 {
+    font-size: 62px;
+}
+.verus {
+    font-weight: 600px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100px;
+    margin: 0px 12px;
+
+}
+.bills img {
+    width: 500px;
+    display: block;
+    margin-bottom: 10px;
+    box-shadow: 16px 10px 10px blue;
+}
+.teams .bills h3 {
+    font-size: 62px;
+}
+.information .body-text {
+    font-family: serif;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
+a {
+    font-size: 20px;
+    border: 2px solid rgb(205, 217, 255);
+    padding: 5px 10px;
+    background-color: red;
+}
+
+.information p {
+    font-size: 36px;
+    text-align: center;
+}
