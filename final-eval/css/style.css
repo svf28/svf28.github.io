@@ -6,7 +6,7 @@ body {
     font-family: sans-serif;
 }
 .center {
-    background: linear-gradient(#00ba2d, #003193, red) 
+    background: linear-gradient(#00ba2d, #003193, red);
 }
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
 .medium {
@@ -68,10 +68,18 @@ body {
     text-align: center;
     font-weight: bold;
 }
-a {
+.row {
+    display: flex;
+    gap: 16px;
+    align-content: center;
+    margin: 22px;
+}
+.button {
+    display: flex;
     font-size: 20px;
-    border: 2px solid rgb(205, 217, 255);
-    padding: 5px 10px;
+    border: 2px solid rgb(13, 66, 241);
+    padding: 20px 20px;
+    gap: 20px;
     background-color: whitesmoke;
     align-items: center;
 }
