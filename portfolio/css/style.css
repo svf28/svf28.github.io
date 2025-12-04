@@ -22,6 +22,11 @@ header #top {
     padding: 20px;
     font-size: 20px;
 }
+@media screen and (max-width: 660px);
+    nav {
+        flex-direction: column;
+    }
+
 .title {
     font-family: "Oswald", sans-serif;
     font-style: normal;
